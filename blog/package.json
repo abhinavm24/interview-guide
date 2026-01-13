@@ -9,7 +9,7 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "astro": "^1.2.1",
+    "astro": "^4.16.19",
     "globby": "^13.1.2",
     "mark.js": "^8.11.1",
     "sass": "^1.54.9",
